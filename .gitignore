@@ -1,0 +1,5 @@
+# Build output and local test logs. Keep the repository source-only.
+build/
+artifacts/
+*.pkg
+.DS_Store
